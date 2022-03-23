@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PFHXGV8F3E.com.modsoussi.samplexpo",
+        "paths": [
+          "/*"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Match all routes"
+          }
+        ]
+      }
+    ]
+  }
+}
